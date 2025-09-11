@@ -78,7 +78,7 @@ Kravspecifikationen kan fritt byggas ut med egna idéer.
 
      - `GET /api/products/low-stock`
 
-   - **Hämta en kompakt lista över produkter med färre än 5 enheter i lager (inkluderar endast tillverkarens/manufacturer samt kontaktens/contact namn, telefon och e-post)**
+   - **Hämta en kompakt lista över produkter med färre än 5 enheter i lager (inkluderar endast tillverkarens/manufacturers namn samt kontaktens/contact namn, telefon och e-post)**
 
      - `GET /api/products/critical-stock`
 
